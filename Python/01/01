@@ -1,0 +1,4 @@
+def funcao (valor):
+    print("Funcao que imprime algo: %s" % valor)
+
+funcao(10)
