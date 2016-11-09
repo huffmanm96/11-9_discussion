@@ -97,4 +97,5 @@ pygame.quit()
 quit()
 
 # I changed the block color in the middle from blue to red, and the words at the end from red to blue.
+##
 
